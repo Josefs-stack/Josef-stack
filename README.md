@@ -168,6 +168,6 @@
   <img 
     width="600" 
     height="240em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefs-stack&theme=dracula&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefs-stack&bg_color=40,275819,09bafd&title_color=fff&text_color=fff&layout=compact" 
     alt="Josef" />
 </div>
