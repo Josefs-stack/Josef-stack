@@ -1,6 +1,6 @@
 <!--*************** Title ***************-->
 <h1 align="center">
-  Olá,meu nome e Caio José,<br />mas pode me chamar de "Josef"
+  Olá,meu sou Caio José, mas pode chamar de "Josef"!
   <img 
     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
     width="30px">
@@ -25,7 +25,7 @@
       src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" 
       alt="resume">
   </a>
-  <a href="mailto:josef.devs@gmail.com" target="_blank">
+  <a href="mailto:cj.safos@gmail.com" target="_blank">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
   </a>
@@ -36,7 +36,7 @@
   </a>
 </div>
 
-<br />
+ <img style="width:100%;height:3px;" src="./bar.gif" />
 
 
 <!--*************** About ***************-->
@@ -46,15 +46,15 @@
   <ul>
     <li>💻 Front-end developer React.js/Next.js.</li><br/>
     <li>📌 Moro em Nova Iguaçu/RJ-BR.</li><br/>
-    <li>🔭 Atualmente estou estudando Back-end com Kotlin.</li><br/>
+    <li>🔭 Atualmente estou estudando Back-end .Net</li><br/>
     <li>📚🎓👨‍🎓 Estou Graduando Sistemas para Internet</li><br/>
     <li>👨‍🎓 Participo bastante de Bootcamps tanto de front quanto back.</li><br/>
-    <li>🤓 Familiarizado com as tecnologias: React.js, Next.js, TypeScript, Styled-Components,Tailwind , Sass, CSS-modules, Chakra-UI, Jest, Test library,GraphQL, Design Patterns, SOLID, Clean Code.</li><br/>
+    <li>🤓 Familiarizado com as tecnologias: React.js, Next.js, TypeScript, Styled-Components,Tailwind , Sass, CSS-modules, Chakra-UI, Jest, Test library, GraphQL, SOLID, Clean Code.</li><br/>
     <li>💬 Qualquer dica ou ajuda é bem vinda!</li><br/>
   </ul>
 </div>
 
----
+ <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Skills ***************-->
 
@@ -74,7 +74,7 @@
     alt="Webpack" />
 </div>
 
----
+ <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Front-end ***************-->
 
@@ -118,7 +118,7 @@
     alt="bootstrap">
 </div>
 
----
+ <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Front-end ***************-->
 
@@ -128,14 +128,11 @@
     src="https://img.shields.io/badge/Node-008000?style=for-the-badge&amp;logo=node.js&amp;logoColor=F7DF1E" 
     alt="Nodejs">
   <img 
-    src="https://img.shields.io/badge/Kotlin-512BD4?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" 
+    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=.net&amp;logoColor=white" 
     alt=".net">
-  <img 
-    src="https://img.shields.io/badge/SpringBoot-5add26?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" 
-    alt="SpringBoot">
 </div>
 
----
+ <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Deploy ***************-->
 
@@ -149,7 +146,7 @@
     alt="Github Pages">
 </div>
 
----
+ <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Testing ***************-->
 
@@ -163,7 +160,7 @@
     alt="testing-library"> 
 </div>
 
----
+ <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Stats ***************-->
 <h2>📈 <strong>My GitHub Stats:</strong></h2>
