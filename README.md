@@ -36,8 +36,6 @@
   </a>
 </div>
 
- <img style="width:100%;height:3px;" src="./bar.gif" />
-
 
 <!--*************** About ***************-->
 <h3>🚀 About me...</h3>
@@ -53,8 +51,6 @@
     <li>💬 Qualquer dica ou ajuda é bem vinda!</li><br/>
   </ul>
 </div>
-
- <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Skills ***************-->
 
@@ -74,7 +70,6 @@
     alt="Webpack" />
 </div>
 
- <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Front-end ***************-->
 
@@ -118,8 +113,6 @@
     alt="bootstrap">
 </div>
 
- <img style="width:100%;height:3px;" src="./bar.gif" />
-
 <!--*************** Front-end ***************-->
 
 <h3>🖥️ Back-End</h3>
@@ -131,8 +124,6 @@
     src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=.net&amp;logoColor=white" 
     alt=".net">
 </div>
-
- <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Deploy ***************-->
 
@@ -146,8 +137,6 @@
     alt="Github Pages">
 </div>
 
- <img style="width:100%;height:3px;" src="./bar.gif" />
-
 <!--*************** Testing ***************-->
 
 <h3>🧪 Testing</h3>
@@ -159,8 +148,6 @@
     src="https://img.shields.io/badge/testing library-ffffff?style=for-the-badge&amp;logo=testinglibrary&amp;logoColor=#F5403F" 
     alt="testing-library"> 
 </div>
-
- <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <!--*************** Stats ***************-->
 <h2>📈 <strong>My GitHub Stats:</strong></h2>
